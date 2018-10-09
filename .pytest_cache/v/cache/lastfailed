@@ -1,0 +1,22 @@
+{
+  "Tests/add_new _user_excel_test.py::test_add_credentials": true,
+  "Tests/add_new _user_excel_test.py::test_click_continue_link": true,
+  "Tests/add_new _user_excel_test.py::test_click_logout_link": true,
+  "Tests/add_new _user_excel_test.py::test_open_link": true,
+  "Tests/add_new _user_excel_test.py::test_submit_form": true,
+  "Tests/add_new_user_test.py::test_add_credentials": true,
+  "Tests/add_new_user_test.py::test_click_continue_link": true,
+  "Tests/add_new_user_test.py::test_click_logout_link": true,
+  "Tests/add_new_user_test.py::test_get_id": true,
+  "Tests/add_new_user_test.py::test_open_link": true,
+  "Tests/add_new_user_test.py::test_submit_form": true,
+  "Tests/add_new_user_test1.py::test_click_continue_link": true,
+  "Tests/add_new_user_test1.py::test_click_logout_link": true,
+  "Tests/add_user_account_test.py::test_addaccount": true,
+  "Tests/addaccount_test.py::test_addaccount": true,
+  "Tests/delete_test.py::test_delete": true,
+  "Tests/edit_test.py::test_edit": true,
+  "Tests/logout_test.py::TestDelete::()::test_logout": true,
+  "Tests/registration_excel_test.py::test_register": true,
+  "Tests/registration_test.py::test_register": true
+}

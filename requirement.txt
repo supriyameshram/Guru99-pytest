@@ -1,0 +1,4 @@
+xlrd
+pytest
+pymysql
+selenium

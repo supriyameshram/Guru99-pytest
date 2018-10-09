@@ -1,0 +1,11 @@
+[
+  "Tests/add_user_test.py::test_open_url",
+  "Tests/add_user_test.py::test_add_credentials1",
+  "Tests/add_user_test.py::test_submit_form1",
+  "Tests/add_user_test.py::test_open_link",
+  "Tests/add_user_test.py::test_add_credentials",
+  "Tests/add_user_test.py::test_submit_form",
+  "Tests/add_user_test.py::test_get_id",
+  "Tests/add_user_test.py::test_click_continue_link",
+  "Tests/add_user_test.py::test_click_logout_link"
+]
